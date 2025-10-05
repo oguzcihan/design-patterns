@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/ProxyDesignPattern/pom.xml" />
         <option value="$PROJECT_DIR$/FactoryDesignPattern/pom.xml" />
+        <option value="$PROJECT_DIR$/TemplateDesignPattern/pom.xml" />
       </list>
     </option>
   </component>

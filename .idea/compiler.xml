@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="FactoryDesignPattern" />
         <module name="ProxyDesignPattern" />
+        <module name="TemplateDesignPattern" />
       </profile>
     </annotationProcessing>
   </component>
